@@ -3,7 +3,8 @@
   padding: 0.25em;
   color: slateblue;
 }
-​ .shaking {
+
+.shaking {
   animation-name: wobble;
   animation-duration: 1s;
 }

@@ -5,7 +5,7 @@ import RollDice from "./components/RandomDice";
 function App() {
   return (
     <React.Fragment>
-      <Navbar title="Roll a Dice!" />
+      <Navbar title="Roll a Die!" />
       <hr />
       <div className="App">
         <RollDice />
